@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/jasperreports-fonts-6.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/mssql-jdbc-7.0.0.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/jasperreports-6.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/librerias/groovy-all-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
